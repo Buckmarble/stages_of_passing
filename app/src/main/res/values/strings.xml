@@ -1,14 +1,23 @@
 <resources>
     <string name="app_name">Death Stages</string>
 
-    <string name="title_section1">Death Stage 1</string>
-    <string name="title_section2">Death Stage 2</string>
-    <string name="title_section3">Death Stage 3</string>
+    <string name="title_section1">One to Three Months Prior</string>
+    <string name="title_section2">One to Two Weeks Prior</string>
+    <string name="title_section3">One to Two Days Prior</string>
+    <string name="title_section4">Hours to Minutes Prior</string>
+
+    <string name="section1_string1">Hours to Minutes Prior</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_example">Example action</string>
+    <string name="action_example"></string>
 
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Future Settings</string>
+
+    <string-array name="stage1_array">
+        <item>line 1</item>
+        <item>line 2</item>
+        <item>line 3</item>
+    </string-array>
 </resources>

@@ -8,6 +8,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="One to Two Weeks Prior to Passing"
+        android:text="Hours to Minutes Prior to Passing"
         android:id="@+id/textView" />
 </RelativeLayout>
