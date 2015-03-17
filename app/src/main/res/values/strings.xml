@@ -15,9 +15,23 @@
 
     <string name="action_settings">Future Settings</string>
 
-    <string-array name="stage1_array">
-        <item>line 1</item>
-        <item>line 2</item>
-        <item>line 3</item>
-    </string-array>
+    <string name="stage1_line1">First stage is:</string>
+    <string name="stage1_line2">bullet 1</string>
+    <string name="stage1_line3">bullet 2</string>
+    <string name="stage1_line4">bullet 3</string>
+
+    <string name="stage2_line1">Second stage is:</string>
+    <string name="stage2_line2">bullet 1</string>
+    <string name="stage2_line3">bullet 2</string>
+    <string name="stage2_line4">bullet 3</string>
+
+    <string name="stage3_line1">Third stage is:</string>
+    <string name="stage3_line2">bullet 1</string>
+    <string name="stage3_line3">bullet 2</string>
+    <string name="stage3_line4">bullet 3</string>
+
+    <string name="stage4_line1">Fourth stage is:</string>
+    <string name="stage4_line2">bullet 1</string>
+    <string name="stage4_line3">bullet 2</string>
+    <string name="stage4_line4">bullet 3</string>
 </resources>
