@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeathStages.iml" filepath="$PROJECT_DIR$/DeathStages.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/stages_of_passing.iml" filepath="$PROJECT_DIR$/stages_of_passing.iml" />
     </modules>
