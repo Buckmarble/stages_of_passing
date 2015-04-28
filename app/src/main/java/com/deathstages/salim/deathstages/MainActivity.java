@@ -55,16 +55,17 @@ public class MainActivity extends Activity
         Fragment fragment = null;
         switch (position) {
             case 0:
-                fragment = new menu_Fragment1();
+                fragment = new menu_Fragment4();
                 break;
             case 1:
-                fragment = new menu_Fragment2();
+                fragment = new menu_Fragment1();
                 break;
             case 2:
-                fragment = new menu_Fragment3();
+                fragment = new menu_Fragment2();
                 break;
             case 3:
-                fragment = new menu_Fragment4();
+                fragment = new menu_Fragment3();
+                break;
         }
 
 
@@ -80,16 +81,16 @@ public class MainActivity extends Activity
     public void onSectionAttached(int number) {
         switch (number) {
             case 1:
-                mTitle = getString(R.string.title_section1);
+                mTitle = getString(R.string.stage3_title);
                 break;
             case 2:
-                mTitle = getString(R.string.title_section2);
+                mTitle = getString(R.string.title_section1);
                 break;
             case 3:
-                mTitle = getString(R.string.title_section3);
+                mTitle = getString(R.string.title_section2);
                 break;
             case 4:
-                mTitle = getString(R.string.title_section4);
+                mTitle = getString(R.string.title_section3);
                 break;
         }
     }

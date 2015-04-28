@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">Death Stages</string>
+    <string name="app_name">Goodbye Butterfly</string>
 
-    <string name="title_section1">One to Three Months Prior</string>
-    <string name="title_section2">One to Two Weeks Prior</string>
-    <string name="title_section3">One to Two Days Prior</string>
-    <string name="title_section4">Hours to Minutes Prior</string>
+    <string name="title_section1"><b>One to Three Months Before</b></string>
+    <string name="title_section2"><b>One to Two Weeks Before</b></string>
+    <string name="title_section3"><b>One to Two Days Before</b></string>
+    <string name="title_intro"><b>Introduction</b></string>
 
     <string name="section1_string1">Hours to Minutes Prior</string>
 
@@ -15,23 +15,21 @@
 
     <string name="action_settings">Future Settings</string>
 
-    <string name="stage1_line1">First stage is:</string>
-    <string name="stage1_line2">bullet 1</string>
-    <string name="stage1_line3">bullet 2</string>
-    <string name="stage1_line4">bullet 3</string>
+    <string name="intro_line1"><b>Stages of Death</b></string>
+    <string name="intro_line2">Death, like a fingerprint, is unique to every individual. According to  Barbara Karnes RN, /"The death process is a road map, like any map, there are many roads arriving at the same destination, may ways to enter the same city.\" When losing a family member or friend we seek something concrete, set in stone. You are asking yourself, \"How many months, hours, minutes?\" \"Will it be today?\" \"Death comes in its own time.\" Use this application while understanding and remembering nothing is definite or tangible. Your loved one may experience many of these symptoms or none at all.</string>
 
-    <string name="stage2_line1">Second stage is:</string>
-    <string name="stage2_line2">bullet 1</string>
-    <string name="stage2_line3">bullet 2</string>
-    <string name="stage2_line4">bullet 3</string>
+    <string name="stage1_line1"><b>Withdrawal -</b> The beginning of division from the world around them. Lack of activity and interest. "A time of withdrawing from the outside of ones self and going inside</string>
+    <string name="stage1_line2"><b>Sleep -</b> Increase in sleep because the process of arranging ones thoughts of ones self and ones life usually occurs during sleep. Your loved one may take more frequent naps or even sleep the days away.</string>
+    <string name="stage1_line3"><b>Communication -</b> Communication through words can be considered part of the physical world. Touch takes over with more meaning.</string>
+    <string name="stage1_line4"><b>Food -</b> Humans consume food for energy to live and survive. As the human body is transitioning to die, food no longer has value. Portions decrease, hard foods of substance become more soft foods like puddings, yogurts, and soup. The hard to digest foods, like meat usually go first. Families have a hard time with this phase as they may feel their loved one is starving themselves, however, it is natural to lose their appetites.</string>
 
-    <string name="stage3_line1">Third stage is:</string>
-    <string name="stage3_line2">bullet 1</string>
-    <string name="stage3_line3">bullet 2</string>
-    <string name="stage3_line4">bullet 3</string>
+    <string name="stage2_line1"><b>Sleep -</b> Your loved one is sleeping most always, but can be awakened by sound or touch. It\'s hard for them to stay awake or keep eyes open.</string>
+    <string name="stage2_line2"><b>Disorientation -</b> Confusion sets in and they might begin talking to unseen people in the room, especially appearing to speak to loved ones who are already deceased. It is as if one foot is on each side of each world, between life and death. </string>
+    <string name="stage2_line3"><b>Agitation -</b> They may pick at their bed sheets and clothes. Random arm movements or spasms. "They are losing their grounding to the earth."</string>
+    <string name="stage2_line4"><b>Physical Changes -</b> BP lowers, heart rate becomes abnormal and can change from 70 to 160 or can be 50 or below. Body temperature becomes feverish then chills. Skin color can become a pale blueish as their heart is no longer circulating and oxygenating the limbs consistently. Feet and hands then become colder to the touch. Breathing is inconsistent and changes frequently from high to low or vise versa. Breathing during this time can stop for up to 30 seconds and resume again. This is called apnea. There may be a rattling sound of congestion in the lungs or throat. It comes and goes and can get loader or softer depending on the position of the person.</string>
 
-    <string name="stage4_line1">Fourth stage is:</string>
-    <string name="stage4_line2">bullet 1</string>
-    <string name="stage4_line3">bullet 2</string>
-    <string name="stage4_line4">bullet 3</string>
+    <string name="stage3_title"><b>1 to 2 Days to Hours to Minutes Before Passing</b></string>
+    <string name="stage3_line1">Rallying - A boost of energy can happen. Your loved one might talk clearly or begin to eat again. They might ask for company and even interact. "The spiritual energy for transition from this world to the next has arrived and used as a physical expression. This energy is not always as noticeable, but in hindsight, can usually be recognized."</string>
+    <string name="stage3_line2">Terminal Restlessness - Lack of oxygen can cause a person to be extremely physically restless.</string>
+    <string name="stage3_line3">Physical Changes - Breathing is even more irregular and congestion can get very loud. Eyes may appear glassy or glazed over. Hands and feet \"model\" with blotchy red or purple. Person can not be awakened.</string>
 </resources>
