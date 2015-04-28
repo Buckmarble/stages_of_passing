@@ -27,7 +27,7 @@
         android:text="@string/intro_line1"
         android:id="@+id/textView2"
         android:layout_below="@+id/textView"
-        android:layout_alignParentStart="true"
+        android:layout_alignParentStart="false"
         android:layout_marginTop="28dp"
         android:textStyle="bold|italic"
         android:typeface="serif" />
@@ -44,7 +44,8 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_alignEnd="@+id/textView"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:typeface="serif" />
 
 </RelativeLayout>
 </ScrollView>

@@ -16,8 +16,8 @@
         android:text="@string/title_section1"
         android:layout_marginTop="20dp"
         android:id="@+id/textView"
-        android:textStyle="bold|italic"
-        android:typeface="serif" />
+        android:typeface="serif"
+        android:textStyle="bold|italic" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -31,7 +31,8 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_alignEnd="@+id/textView"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:typeface="serif" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -45,7 +46,8 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_alignEnd="@+id/textView"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:typeface="serif" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -59,7 +61,8 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_alignEnd="@+id/textView"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:typeface="serif" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -73,7 +76,8 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_alignEnd="@+id/textView"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:typeface="serif" />
 
 </RelativeLayout>
 </ScrollView>
